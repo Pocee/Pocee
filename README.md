@@ -21,7 +21,7 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de
 |----------|-------------|-------------|--------|
 | [🎮 PCI Passthrough OVMF Guide](https://github.com/Pocee/PCI-Passthrough-OVMF) | Documentación técnica para GPU passthrough (VFIO) en Arch/CachyOS: early binding, IOMMU, troubleshooting y recuperación de sistema. | KVM/QEMU, VFIO, Bash, Linux | ✅ Done |
 | [🔐 SSH Brute-Force Detector](https://github.com/Pocee/ssh-bruteforce-detector) | CLI en Python para análisis de logs de autenticación. Detección de IPs sospechosas vía Regex y exportación multi-formato (JSON/CSV/TXT) para flujos SOC/SysAdmin. | Python, Regex, argparse, Linux | ✅ Done |
-| [🔍 IP Threat Intel Parser](https://github.com/Pocee/IP-Threat-Intel-Parser) | Script para enriquecer logs con AbuseIPDB/VirusTotal APIs: reputación de IPs, geolocalización y reporte estructurado. | Python, requests, JSON, APIs | ✅ Done |
+| [🔍 IP Threat Intel Parser](https://github.com/Pocee/IP-Threat-Intel-Parser) | Script para enriquecer logs con AbuseIPDB/VirusTotal APIs: reputación de IPs, localización y reporte JSON. | Python, requests, JSON, APIs | ✅ Done |
 | [🏗️ Proxmox Network Lab](#) | Despliegue de servicios corporativos esenciales (SSH, DNS, SMB, NFS, DHCP) con hardening y monitorización básica. | Proxmox, Bash, Linux, Docker | ⚪ Planificado |
 | [🚨 Wazuh Alert Filter](#) | Script de automatización para filtrado y triaje de alertas en Wazuh: reducción de ruido y priorización de incidentes. | Wazuh, Python, Bash, SIEM | ⚪ Planificado |
 | [📝 HTB & BTL1 Write-ups](#) | Documentación técnica de máquinas de HackTheBox y laboratorios del camino BTL1 con enfoque Blue Team. | Markdown, Observaciones, Análisis | ⚪ Planificado |
