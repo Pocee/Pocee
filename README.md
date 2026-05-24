@@ -19,7 +19,7 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |----------|-------------|-------------|--------|
-| [🌐 Enterprise Multi-Site Network Lab](https://github.com/Pocee/enterprise-multisite-network-lab) | Simulación de infraestructura corporativa en GNS3: dos sedes con VLANs, Router-on-a-Stick, OSPF dinámico, NAT/PAT con salida real a Internet, Voice VLAN y autenticación MD5. | GNS3, Cisco IOSv, OSPF, VLANs, DHCP, NAT | ✅ Done |
+| [🌐 Enterprise Multi-Site Network Lab](https://github.com/Pocee/enterprise-multisite-network-lab) | Simulación de infraestructura corporativa en GNS3: dos sedes con VLANs, Router-on-a-Stick, OSPF dinámico, NAT/PAT con salida real a Internet, Voice VLAN y autenticación MD5. (CCNA+ Oriented) | GNS3, Cisco IOSv, OSPF, VLANs, DHCP, NAT | ✅ Done |
 | [🎮 PCI Passthrough OVMF Guide](https://github.com/Pocee/PCI-Passthrough-OVMF) | Documentación técnica para GPU passthrough (VFIO) en Arch/CachyOS: early binding, IOMMU, troubleshooting y recuperación de sistema. | KVM/QEMU, VFIO, Bash, Linux | ✅ Done |
 | [🔐 SSH Brute-Force Detector](https://github.com/Pocee/ssh-bruteforce-detector) | CLI en Python para análisis de logs de autenticación. Detección de IPs sospechosas vía Regex y exportación multi-formato (JSON/CSV/TXT) para flujos SOC/SysAdmin. | Python, Regex, argparse, Linux | ✅ Done |
 | [🔍 IP Threat Intel Parser](https://github.com/Pocee/IP-Threat-Intel-Parser) | Script para enriquecer logs con AbuseIPDB/VirusTotal APIs: reputación de IPs, localización y reporte JSON. | Python, requests, JSON, APIs | ✅ Done |
