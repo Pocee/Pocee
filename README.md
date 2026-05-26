@@ -1,6 +1,6 @@
 # 👾 Dani Poveda (aka Poce)
 
-Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de infraestructura, sistemas y redes. Actualmente preparándome para el **BTL1** y completando el **SOC Path en TryHackMe**. Me apasiona construir entornos seguros, automatizar operaciones y entender los sistemas desde la red hasta el endpoint. CTFs enjoyer.
+Estudiante de ciberseguridad. Destaco en administración de sistemas, redes e infraestructura. Actualmente preparándome para el **BTL1** y completando el **SOC Path en TryHackMe**. Me apasiona construir entornos seguros, automatizar operaciones y entender los sistemas desde la red hasta el endpoint. CTFs enjoyer.
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -11,7 +11,7 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de
 <p align="center">
   <b>Infraestructura:</b> Linux · Debian · Arch · Windows Server · Proxmox · KVM/QEMU · VMware · Docker<br/>
   <b>Redes/Configs:</b> Cisco Routing · DNS · DHCP · SMB · SSH · NFS · SFTP · SMTP<br/>
-  <b>Seguridad:</b> Wazuh SIEM/XDR · Splunk · Blue Team · Hardening<br/>
+  <b>Seguridad:</b> Wazuh SIEM/XDR · Splunk · Purple Team · Hardening<br/>
   <b>Code & Tools:</b> Python · Bash · C · Astro
 </p>
 
