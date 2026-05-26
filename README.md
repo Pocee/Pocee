@@ -33,7 +33,8 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de
 - 🛡️ **TryHackMe SOC Path** – Casi completado
 - 📚 **FP Redes (IFCT0110-N2)** - En prácticas (nota media: 9)
 - 📝 Write ups (en desarrollo): [Repositorios GitHub](https://github.com/Pocee)
+- 🎮 [HackTheBox](https://profile.hackthebox.com/profile/019cf63a-c8de-70d0-bfd1-04081bcbe94a) (27 CTFs completados - Skilled Rank)
 
 ## 📬 Contacto
-- 🎮 [HackTheBox](https://profile.hackthebox.com/profile/019cf63a-c8de-70d0-bfd1-04081bcbe94a) (27 CTFs completados)
+
 - 📧 [dani.poveda.it@gmail.com](dani.poveda.it@gmail.com)
