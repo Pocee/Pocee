@@ -24,16 +24,16 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC** y redes. Actualment
 | [🔐 SSH Brute-Force Detector](https://github.com/Pocee/ssh-bruteforce-detector) | CLI en Python para análisis de logs de autenticación. Detección de IPs sospechosas vía Regex y exportación multi-formato (JSON/CSV/TXT) para flujos SOC/SysAdmin. | Python, Regex, argparse, Linux | ✅ Done |
 | [🔍 IP Threat Intel Parser](https://github.com/Pocee/IP-Threat-Intel-Parser) | Script para enriquecer logs con AbuseIPDB/VirusTotal APIs: reputación de IPs, localización y reporte JSON. | Python, requests, JSON, APIs | ✅ Done |
 | [🏗️ Proxmox Network Lab](https://github.com/Pocee/Proxmox-Network-Lab/tree/main) | Despliegue de servicios corporativos (SSH, SMB) con hardening y monitorización básica. | Proxmox, Bash, Linux, LXC | ✅ Done |
-| [🚨 Wazuh Alert Filter](#) | Script de automatización para filtrado y triaje de alertas en Wazuh: reducción de ruido y priorización de incidentes. | Wazuh, Python, Bash, SIEM | ⚪ Planificado |
-| [📝 HTB & BTL1 Write-ups](#) | Documentación técnica de máquinas de HackTheBox y laboratorios del camino BTL1 con enfoque Blue Team. | Markdown, Observaciones, Análisis | ⚪ Planificado |
-
+| [📝 Sauna — HTB Writeup](https://github.com/Pocee/Sauna-Writeup) | Writeup de la máquina Windows Easy de HackTheBox. Compromiso completo vía ASREPRoasting, escalada con credenciales AutoLogon y DCSync attack para volcar hashes del DC. | Active Directory · Kerberos · BloodHound · Impacket | ✅ Done |
+| [🔍 MangoBleed — HTB Sherlock](https://github.com/Pocee/Sherlock-MangoBleed) | Análisis forense DFIR de un servidor comprometido via CVE-2025-14847 (MongoDB heap memory leak). Identificación del atacante, timeline del incidente y análisis de exfiltración. | DFIR · MongoDB · Log Forensics · CVE Analysis | ✅ Done |
 ## 📚 Aprendizaje Actual
 
 - 📘 **Cisco Certified Network Associate (CCNA)** – En formación
 - 📘 **Blue Team Level 1 (BTL1)** – Próximamente
 - 📚 **FP Redes (IFCT0110-N2)** - En prácticas (nota promedio: 9.1)
-- 📝 Write ups (en desarrollo): [Repositorios GitHub](https://github.com/Pocee)
-- 🎮 [HackTheBox](https://profile.hackthebox.com/profile/019cf63a-c8de-70d0-bfd1-04081bcbe94a) (27 CTFs completados - Skilled Rank)
+- 📝 Write ups: [ Sauna — CTF](https://github.com/Pocee/Sauna-Writeup) 
+||[ MangoBleed — DFIR](https://github.com/Pocee/Sherlock-MangoBleed)
+- 🎮 [HackTheBox](https://profile.hackthebox.com/profile/019cf63a-c8de-70d0-bfd1-04081bcbe94a) (30 CTFs completados - Skilled Rank)
 
 ## 📬 Contacto
 
