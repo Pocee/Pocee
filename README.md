@@ -1,6 +1,6 @@
 # 👾 Dani Poveda (aka Poce)
 
-Estudiante de ciberseguridad enfocado en **Blue Team / SOC**, administración de infraestructura, sistemas y redes. Actualmente preparándome para el **CCNA** y próximamente el BTL1. Me apasiona construir entornos seguros, automatizar operaciones y entender los sistemas desde la red hasta el endpoint. CTFs enjoyer.
+Estudiante de ciberseguridad enfocado en **Blue Team / SOC** y redes. Actualmente preparándome para el **CCNA** y próximamente el BTL1. Me apasiona construir entornos seguros, automatizar operaciones y entender los sistemas desde la red hasta el endpoint. CTFs enjoyer.
 
 ## 🛠️ Tech Stack
 <p align="center">
