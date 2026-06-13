@@ -29,8 +29,8 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC** y redes. Actualment
 
 ## 📚 Aprendizaje Actual
 
-- 📘 **(CCNA) Cisco Certified Network Associate** – En formación
-- 📘 **(BTL1) Blue Team Level 1** – Próximamente
+- 📘 **Cisco Certified Network Associate (CCNA)** – En formación
+- 📘 **Blue Team Level 1 (BTL1)** – Próximamente
 - 📚 **FP Redes (IFCT0110-N2)** - En prácticas (nota promedio: 9.1)
 - 📝 Write ups (en desarrollo): [Repositorios GitHub](https://github.com/Pocee)
 - 🎮 [HackTheBox](https://profile.hackthebox.com/profile/019cf63a-c8de-70d0-bfd1-04081bcbe94a) (27 CTFs completados - Skilled Rank)
