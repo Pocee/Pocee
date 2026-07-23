@@ -11,7 +11,7 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC** y redes. Actualment
 <p align="center">
   <b>Infraestructura:</b> Linux · Debian · Arch · Windows Server · Proxmox · KVM/QEMU · VMware · Docker<br/>
   <b>Redes/Configs:</b> Cisco Routing · DNS · DHCP · SMB · SSH · NFS · SFTP · SMTP<br/>
-  <b>Seguridad:</b> Wazuh SIEM/XDR · Splunk · Purple Team · Hardening<br/>
+  <b>Seguridad:</b> Wazuh SIEM/XDR · Ansible · Purple Team · Hardening<br/>
   <b>Code & Tools:</b> Python · Bash · C · Astro
 </p>
 
