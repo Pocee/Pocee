@@ -5,11 +5,11 @@ Estudiante de ciberseguridad enfocado en **Blue Team / SOC** y redes. Actualment
 ## 🛠️ Tech Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,arch,windows,bash,python,c,docker,astro,proxmox,qemu,vmwareworkstation&titles=true&theme=dark&" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,redhat,windows,bash,python,c,docker,astro,proxmox,qemu,vmwareworkstation&titles=true&theme=dark&" />
   </a>
 </p>
 <p align="center">
-  <b>Infraestructura:</b> Linux · Debian · Red Hat · Windows Server · Proxmox · KVM/QEMU · VMware · Docker<br/>
+  <b>Infraestructura:</b> GNU/Linux · Debian · Red Hat · Windows Server · Proxmox · KVM/QEMU · VMware · Docker<br/>
   <b>Redes/Configs:</b> Cisco Routing · DNS · DHCP · SMB · SSH · NFS · SFTP · SMTP<br/>
   <b>Seguridad:</b> Wazuh SIEM/XDR · Ansible · Purple Team · Hardening<br/>
   <b>Code & Tools:</b> Python · Bash · C · Astro
